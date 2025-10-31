@@ -1,8 +1,3 @@
-Perfect ✅ — here’s your **📘 Kubectl Comprehensive Markdown Cheatsheet for Beginners** — neatly formatted and ready to use in any Markdown viewer, GitHub README, or Obsidian note.
-
----
-
-````markdown
 # 🧭 Kubectl Comprehensive Guide for Beginners
 
 ## 🔹 1. What is `kubectl`?
